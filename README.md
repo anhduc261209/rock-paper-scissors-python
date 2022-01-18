@@ -1,2 +1,5 @@
-# rock-paper-scissors-python
-A basic console rock paper scissors game 
+# Rock Paper Scissors Game in Python
+A basic console rock paper scissors game
+
+# License
+MIT
